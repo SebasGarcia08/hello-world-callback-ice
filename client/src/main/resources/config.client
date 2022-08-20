@@ -1,0 +1,2 @@
+Callback.Endpoints = default -p 8010 -h hgrid22
+Printer = SimplePrinter:default -p 8110 -h hgrid22
